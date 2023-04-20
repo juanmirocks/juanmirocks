@@ -2,8 +2,8 @@
 
 ---
 
-<!-- [![SO badge](https://stackoverflow-card.vercel.app/?userID=341320)](https://stackoverflow.com/users/341320/juanmirocks) -->
-<img alt="My SO flair" width="340vw" src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=341320" />
+[![SO badge](https://stackoverflow-card.vercel.app/?userID=341320)](https://stackoverflow.com/users/341320/juanmirocks)
+<!-- <img alt="My SO flair" width="340vw" src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=341320" /> -->
 
 
 ### Main Languages
