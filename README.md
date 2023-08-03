@@ -21,5 +21,6 @@ Recent open-source projects:
 
 * [fastchecks](https://github.com/juanmirocks/fastchecks) - 🚥 Fast website monitoring - CLI & Python API 
 * [mkpdf](https://github.com/juanmirocks/mkpdf) - 🖨️🎨 CLI, TypeScript API, & parce.js plugin to "print" a website (URL/HTML/Markdown) into a PDF
-* [stackexchange-stats-flair](https://github.com/juanmirocks/stackexchange-stats-flair) - 🍒 Beautiful Stack Overflow & Exchange profile flair (stats) 
+* [stackexchange-stats-flair](https://github.com/juanmirocks/stackexchange-stats-flair) - 🍒 Beautiful Stack Overflow & Exchange profile flair / stats
 * [CtCI](https://github.com/juanmirocks/CtCI) - My answers for the book: Cracking the Code Interview (CtCI), 6th Edition
+* [AtDSI](https://github.com/juanmirocks/AtDSI) - My coding answers for the book (Chapter 9): Ace the Data Science Interview (AtDSI), 1st Edition
